@@ -1,0 +1,14 @@
+,dtype,null_count,null_pct,nunique,sample_value
+reviewId,object,0,0.0,99890,7e1815f2-36d1-4187-a936-12f969747892
+content,object,0,0.0,99881,"The free version is terrible. Bro you can only do 6 skips per hour and then it gives you a whole bunch of recommendations into the playlists you're listening to! like bro when I make a playlist I like it how it is I don't need some robot to recommend things for it! like seriously! I pay for premium now, because it's worth it, but barely. The paid version is excellent but very expensive."
+score,int64,0,0.0,5,5
+thumbsUpCount,int64,0,0.0,1038,17
+at,datetime64[ns],0,0.0,99840,2026-04-21 21:45:57
+appVersion,object,9034,9.04,594,9.1.40.1486
+repliedAt,datetime64[ns],84775,84.87,15109,
+replyContent,object,84775,84.87,5693,
+source_country,object,0,0.0,1,us
+source_sort,object,0,0.0,1,MOST_RELEVANT
+is_new,bool,0,0.0,1,True
+scraped_at,datetime64[us],0,0.0,1,2026-06-08 17:34:03.520066
+content_clean,object,0,0.0,99869,the free version is terrible bro you can only do 6 skips per hour and then it gives you a whole bunch of recommendations into the playlists you're listening to like bro when i make a playlist i like it how it is i don't need some robot to recommend things for it like seriously i pay for premium now because it's worth it but barely the paid version is excellent but very expensive
