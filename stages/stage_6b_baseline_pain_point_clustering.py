@@ -21,8 +21,8 @@ from umap import UMAP
 import mlflow
 
 # Import shared registry abstractions
-from src.topic_registry.registry import TopicRegistry
-from src.topic_registry.centroid_store import CentroidStore
+from utils.topic_registry.registry import TopicRegistry
+from utils.topic_registry.centroid_store import CentroidStore
 
 warnings.filterwarnings("ignore", category=FutureWarning)
 warnings.filterwarnings("ignore", category=UserWarning)
